@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziho9593&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ziho9593/ziho9593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
